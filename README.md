@@ -1,25 +1,27 @@
-# Shreyas here
+# **Shreyas**
 
-Pune, India. I build internet products with a bias for shipping over showmanship.
+*Building products that matter, not noise.*
 
-## Work-in-Progress Portfolio ✦
-- **Replyify** — practical tooling to make responses fast, thoughtful, and repeatable.
-- **Peakfolk** — experiments in community + craft, built in public (quietly).
-- **New product** — in the lab; if it works, you’ll hear about it.
+## About
 
-## Currently
-- Deep-diving into Web3, full‑stack, and modern infra.
-- Learning hands-on via Harkirat Singh’s cohort.
+From Pune, India. I build things: **Replyify** and **Peakfolk**. One more product currently in progress.
 
-## Socials
-- Twitter/X: [@Shrysxs](https://twitter.com/Shrysxs)
-- LinkedIn: [Shreyas Borade](https://www.linkedin.com/in/shreyas-borade-b34267229)
+Learning Web3, full-stack, and modern infrastructure through Harkirat Singh's cohort. The world is shifting fast — I'm not chasing trends, I'm building inside the change.
 
-## Pin These Repos
-- Replyify — the “less typing, more signal” stack. Pin it.
-- Peakfolk — building community tools that don’t shout. Pin it.
-- Latest experiment — whatever I’m breaking to learn this month. Pin that too.
+## Projects
+
+**Replyify** — Transform scattered thoughts into polished, context-aware writing.  
+[Live](https://replyify-five.vercel.app) • [Code](https://github.com/Shrysxs/replyify)
+
+**Peakfolk** — Social platform for adventure planning and community building.  
+[Live](https://peakfolksocial.vercel.app) • [Code](https://github.com/Shrysxs/peakfolksocial)
+
+**Next** — Something about making the right thing at the right time. If it works, you'll know.
+
+## Connect
+
+[Twitter](https://x.com/Shrysxs) • [LinkedIn](https://www.linkedin.com/in/shreyas-borade-b34267229)
 
 ---
 
-Building, learning, and refusing to be ordinary.
+*Building, learning, staying curious.*
