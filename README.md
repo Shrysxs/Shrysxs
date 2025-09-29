@@ -1,7 +1,5 @@
 # **Shreyas**
 
-*Building products that matter, not noise.*
-
 ## About
 
 From Pune, India. I build things: **Replyify** and **Peakfolk**. One more product currently in progress.
