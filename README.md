@@ -1,4 +1,5 @@
 # **Shreyas**
+[![An image of @shrysxs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrysxs)](https://holopin.io/@shrysxs)
 
 ## About
 
