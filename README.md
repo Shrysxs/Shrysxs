@@ -1,26 +1,100 @@
-# **Shreyas**
-[![An image of @shrysxs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrysxs)](https://holopin.io/@shrysxs)
+Shreyas
+=======
 
-## About
+Full-Stack Developer | Web3 
 
-From Pune, India. I build things: **Replyify** and **Peakfolk**. One more product currently in progress.
 
-Learning Web3, full-stack, and modern infrastructure through Harkirat Singh's cohort. The world is shifting fast — I'm not chasing trends, I'm building inside the change.
+Overview
+--------
 
-## Projects
+Full-stack engineer and early stage product builder working across
+Web2, Web3, and applied AI systems.
 
-**Replyify** — Transform scattered thoughts into polished, context-aware writing.  
-[Live](https://replyify-five.vercel.app) • [Code](https://github.com/Shrysxs/replyify)
+Focus areas include rapid MVP development, blockchain based platforms,
+and shipping production oriented applications under real world
+constraints.
 
-**Peakfolk** — Social platform for adventure planning and community building.  
-[Live](https://peakfolksocial.vercel.app) • [Code](https://github.com/Shrysxs/peakfolksocial)
+Current Stack
+=============
 
-**Next** — Something about making the right thing at the right time. If it works, you'll know.
+Frontend
+--------
 
-## Connect
+* React
+* Next.js
+* TypeScript
+* JavaScript
 
-[Twitter](https://x.com/Shrysxs) • [LinkedIn](https://www.linkedin.com/in/shreyas-borade-b34267229)
+Backend
+-------
 
----
+* Node.js ecosystem
+* MERN-based architectures
+* REST APIs
+* Applied system design fundamentals
 
-*Building, learning, staying curious.*
+Runtime & Tooling
+-----------------
+
+* Bun
+* Modern JS tooling
+
+Web3 (Application Layer)
+------------------------
+
+* Wallet integrations
+* Transaction flows
+* SDK-based on-chain interactions
+* Prior work within the Solana ecosystem
+
+Languages
+---------
+
+* JavaScript
+* TypeScript
+* Python (working proficiency)
+
+
+Direction (Through June 2026)
+=============================
+
+Smart Contracts
+---------------
+
+* Solidity development
+* Contract testing (Foundry / Hardhat)
+* Security fundamentals
+* Gas optimization
+* Production deployment workflows
+
+Rust & Deeper Web3
+------------------
+
+* Rust fundamentals
+* Solana program development
+* Anchor framework
+* Blockchain execution models
+
+Systems & Infrastructure
+------------------------
+
+* Dockerized environments
+* CI/CD pipelines
+* Cloud deployments
+* Monitoring and observability
+
+
+Working Model
+=============
+
+* Build-first execution
+* Ship → Measure → Iterate
+* Production over prototypes
+* Continuous capability expansion
+
+
+Links
+=====
+
+* GitHub: https://github.com/Shrysxs
+* Twitter/X: https://x.com/Shrysxs
