@@ -1,55 +1,41 @@
 Shreyas
-=======
+======
 
 Full-Stack Developer | Web3 
 
-
-Overview
---------
+Overview:-
 
 Full-stack engineer and early stage product builder working across
 Web2, Web3, and applied AI systems.
-
 Focus areas include rapid MVP development, blockchain based platforms,
 and shipping production oriented applications under real world
 constraints.
 
-Current Stack
-=============
+Current Stack:-
 
-Frontend
---------
-
+Frontend:
 * React
 * Next.js
 * TypeScript
 * JavaScript
 
-Backend
--------
-
+Backend:
 * Node.js ecosystem
 * MERN-based architectures
 * REST APIs
 * Applied system design fundamentals
 
-Runtime & Tooling
------------------
-
+Runtime & Tooling:
 * Bun
 * Modern JS tooling
 
-Web3 (Application Layer)
-------------------------
-
+Web3 (Application Layer):
 * Wallet integrations
 * Transaction flows
 * SDK-based on-chain interactions
 * Prior work within the Solana ecosystem
 
-Languages
----------
-
+Languages:
 * JavaScript
 * TypeScript
 * Python (working proficiency)
@@ -58,43 +44,30 @@ Languages
 Direction (Through June 2026)
 =============================
 
-Smart Contracts
----------------
-
+Smart Contracts:
 * Solidity development
 * Contract testing (Foundry / Hardhat)
 * Security fundamentals
 * Gas optimization
 * Production deployment workflows
 
-Rust & Deeper Web3
-------------------
-
+Rust & Deeper Web3:
 * Rust fundamentals
 * Solana program development
 * Anchor framework
 * Blockchain execution models
 
-Systems & Infrastructure
-------------------------
-
+Systems & Infrastructure:
 * Dockerized environments
 * CI/CD pipelines
 * Cloud deployments
 * Monitoring and observability
 
-
-Working Model
-=============
-
+Working Model:
 * Build-first execution
 * Ship → Measure → Iterate
 * Production over prototypes
 * Continuous capability expansion
-
-
-Links
-=====
-
-* GitHub: https://github.com/Shrysxs
+  
+Links:
 * Twitter/X: https://x.com/Shrysxs
